@@ -1,8 +1,13 @@
 **Name :** Marri Saranya 
+
 **Company :** CODTECH IT SOLUTIONS
+
 **ID :** CT08DS7320
+
 **Domain :** Web Development
+
 **Duration :** August to September 2024
+
 **Mentor :** Neela Santhosh Kumar
 
 ## Overview of the Project
