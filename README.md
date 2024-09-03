@@ -32,10 +32,8 @@ Users can click on a task to mark it as completed. The completed task may have a
 ### Basic Structure
 **1.HTML:**
 A text input for adding new tasks.
-
 A button to trigger the task addition.
-
-An unordered list (<ul>) to display the tasks.
+An unordered list(<ul>) to display the tasks.
 
 **2.CSS:**
 Basic styling for the input field, buttons, and task list.
