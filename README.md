@@ -30,7 +30,7 @@ Users can delete tasks by clicking a "Delete" button next to each task.
 Users can click on a task to mark it as completed. The completed task may have a different style (e.g., strikethrough text).
 
 ### Basic Structure
-**1.HTML:**
+ **1.HTML:**
   A text input for adding new tasks.
   A button to trigger the task addition.
   An unordered list(<ul>) to display the tasks.
