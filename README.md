@@ -30,13 +30,15 @@ Users can delete tasks by clicking a "Delete" button next to each task.
 Users can click on a task to mark it as completed. The completed task may have a different style (e.g., strikethrough text).
 
 ### Basic Structure
- **1.HTML:**
-  A text input for adding new tasks.
-  A button to trigger the task addition.
-  An unordered list(<ul>) to display the tasks.
+**1.HTML:**
+ A text input for adding new tasks.
+ A button to trigger the task addition.
+ An unordered list(<ul>) to display the tasks.
+
 **2.CSS:**
 Basic styling for the input field, buttons, and task list.
 Different styles for completed tasks (e.g., a different color or strikethrough).
+
 **3.JavaScript:**
 Event listeners for adding and deleting tasks.
 Functions to handle the logic for adding tasks to the list, removing tasks, and toggling the completed state.
