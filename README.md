@@ -1,4 +1,4 @@
-![TODOLIST](https://github.com/user-attachments/assets/fb25be28-8f4f-446d-b9bc-5c989255816d)**Name :** Marri Saranya 
+**Name :** Marri Saranya 
 
 **Company :** CODTECH IT SOLUTIONS
 
@@ -13,6 +13,7 @@
 ## Overview of the Project
 
 ### Project : TO-DO List Application Using Web Development
+![TODOLIST](https://github.com/user-attachments/assets/fb25be28-8f4f-446d-b9bc-5c989255816d)
 
 ### Objective
 
